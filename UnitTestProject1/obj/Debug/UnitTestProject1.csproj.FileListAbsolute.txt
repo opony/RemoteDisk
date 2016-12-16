@@ -1,0 +1,9 @@
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\UnitTestProject1\bin\Debug\RemoteDisk.dll
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\UnitTestProject1\bin\Debug\RemoteDisk.pdb
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\UnitTestProject1\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

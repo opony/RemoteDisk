@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RemoteDisk.Interface
 {
-    interface IRemoteDisk
+    public interface IRemoteDisk
     {
         bool Connect();
 

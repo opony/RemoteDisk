@@ -1,0 +1,5 @@
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\RemoteDisk\obj\Debug\RemoteDisk.csprojResolveAssemblyReference.cache
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\RemoteDisk\bin\Debug\RemoteDisk.dll
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\RemoteDisk\bin\Debug\RemoteDisk.pdb
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\RemoteDisk\obj\Debug\RemoteDisk.dll
+c:\users\10509014\documents\visual studio 2015\Projects\RemoteDisk\RemoteDisk\obj\Debug\RemoteDisk.pdb
